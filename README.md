@@ -6,5 +6,5 @@ Essa API foi construída especificamente com o objetivo de simplificar o código
 
 # Uso
 
-Faça uma chamada para o endpoint (https://the-thinker.heroku.app/author/{autor}),
+Faça uma chamada para o endpoint (https://the-thinker.herokuapp.com/author/{autor}),
 Onde "autor" é o autor que deseja buscar.
